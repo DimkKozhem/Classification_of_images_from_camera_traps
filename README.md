@@ -19,7 +19,7 @@
 ### Описание файлов решения
 - **Ноутбук обучения классификаций:** ` Classification.ipynb`
 - **Файл запуска классификации:** `animal_classification_V2.0.py`
-- **Веса модели классификатора:** `[efficient_weights_2class.pth](https://drive.google.com/file/d/1Bg64U-N3xaErTU4E-DzYvycGwCsX5krh/view?usp=sharing)`
+- **Веса модели классификатора:** [`efficient_weights_2class.pth`](https://drive.google.com/file/d/1Bg64U-N3xaErTU4E-DzYvycGwCsX5krh/view?usp=sharing)
 - **Файл запуска детекции:** `animal_detection.py`
 - **Файл запуска решения:** `union_model.py`
 
